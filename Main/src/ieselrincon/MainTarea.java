@@ -6,7 +6,7 @@ package ieselrincon;
 
 import java.util.Scanner;
 
-public class Main {
+public class MainTarea {
 
     /**
      * @param args the command line arguments
